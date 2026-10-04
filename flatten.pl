@@ -1,5 +1,3 @@
-% Flatten a list
-
 flatten_list([], []).
 
 flatten_list([H|T], FlatList) :-
